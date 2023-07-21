@@ -1,0 +1,2 @@
+# weight
+input a weight
